@@ -1,0 +1,40 @@
+﻿@model UploadImages.Models.UploadImage
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>UploadImage</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.LabelForModel("Endereço da Imagens")
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ImageFile)
+        </dd>
+        <dt>
+            @Html.LabelForModel("Imagem")
+        </dt>
+        <dd>         
+            @if (!String.IsNullOrEmpty(Model.ImageFile))
+            {
+                <img src="~/@Model.ImageFile" alt="Image" style="width:100px;height:50px;max-width: 100%" class="img-thumbnail" />
+            }                
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" class="btn btn-warning" asp-route-id="@Model.ImageId">Edit</a> |
+    <a asp-action="Index" class="btn btn-default">Back to List</a>
+</div>

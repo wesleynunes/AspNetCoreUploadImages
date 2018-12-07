@@ -1,0 +1,74 @@
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.deps.json
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.runtimeconfig.json
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.runtimeconfig.dev.json
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.dll
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.csprojAssemblyReference.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.csproj.CoreCompileInputs.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.RazorAssemblyInfo.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.RazorAssemblyInfo.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.AssemblyInfoInputs.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.AssemblyInfo.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.TagHelpers.input.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.TagHelpers.output.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.RazorCoreGenerate.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.RazorTargetAssemblyInfo.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.RazorTargetAssemblyInfo.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.pdb
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.Views.dll
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.Views.pdb
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.Views.pdb
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.dll
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.pdb
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.csproj.CopyComplete
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\UploadImages\Create.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\UploadImages\Delete.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\UploadImages\Details.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\UploadImages\Edit.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\UploadImages\Index.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.deps.json
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.runtimeconfig.json
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.runtimeconfig.dev.json
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.dll
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.pdb
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.Views.dll
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\bin\Debug\netcoreapp2.1\UploadImages.Views.pdb
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.csprojAssemblyReference.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.csproj.CoreCompileInputs.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.RazorAssemblyInfo.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.RazorAssemblyInfo.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.AssemblyInfoInputs.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.AssemblyInfo.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.TagHelpers.input.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.TagHelpers.output.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.RazorCoreGenerate.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\UploadImages\Create.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\UploadImages\Delete.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\UploadImages\Details.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\UploadImages\Edit.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\UploadImages\Index.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.RazorTargetAssemblyInfo.cache
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.RazorTargetAssemblyInfo.cs
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.Views.pdb
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.dll
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.pdb
+D:\arquivos\Documentos\VisualStudio\repos\AspNetCore\Upload Imagens\UploadImages\UploadImages\obj\Debug\netcoreapp2.1\UploadImages.csproj.CopyComplete
